@@ -24,3 +24,14 @@ It is known that the following mods are incompatible
 - [Minecraft](https://minecraft.net)
 - [Forge](https://github.com/LexManos/MinecraftForge)
 - [NeoForge](https://github.com/neoforged/NeoForge)
+
+# Common problem
+
+Q: Why?
+A: Why not?
+
+Q: What is this?
+A :A Minecraft meme mod:)
+
+Q: My game crashed
+A: Please uninstall this mod
