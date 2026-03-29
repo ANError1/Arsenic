@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="arsenic"
+version="1.0.0"
+displayName="Arsenic"
+authors="ANError"
+description='''
+A mod that adds Arsenic, a highly toxic new element to your Minecraft world!
+Contains powerful but dangerous tools and weapons.
+'''
+[[dependencies.arsenic]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.arsenic]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
