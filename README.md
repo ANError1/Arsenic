@@ -21,6 +21,6 @@ minecraft 1.20.1 NeoForge
 
 It is known that the following mods are incompatible
 
-- [Minecraft](minecraft.net)
+- [Minecraft](https://minecraft.net)
 - [Forge](https://github.com/LexManos/MinecraftForge)
 - [NeoForge](https://github.com/neoforged/NeoForge)
