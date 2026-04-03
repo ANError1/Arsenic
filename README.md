@@ -1,3 +1,5 @@
+<img src="src/main/resources/icon.png" width="128">
+
 # Arsenic
 
 **This mod is strictly prohibited from being used for any paid activities!**
