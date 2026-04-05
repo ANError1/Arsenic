@@ -32,8 +32,5 @@ It is known that the following mods are incompatible
 Q: Why?
 A: Why not?
 
-Q: What is this?
-A :A Minecraft meme mod:)
-
 Q: My game crashed
 A: Please uninstall this mod
