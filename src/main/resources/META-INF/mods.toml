@@ -3,12 +3,11 @@ loaderVersion="[47,)"
 license="MIT"
 [[mods]]
 modId="arsenic"
-version="1.0.0"
+version="0.1.0"
 displayName="Arsenic"
 authors="ANError"
 description='''
-A mod that adds Arsenic, a highly toxic new element to your Minecraft world!
-Contains powerful but dangerous tools and weapons.
+This is a mod that will cause your Minecraft to crash
 '''
 [[dependencies.arsenic]]
 modId="forge"
@@ -19,6 +18,6 @@ side="BOTH"
 [[dependencies.arsenic]]
 modId="minecraft"
 mandatory=true
-versionRange="[1.20.1,1.21)"
+versionRange="[1.20.1,1.21.1)"
 ordering="NONE"
 side="BOTH"
